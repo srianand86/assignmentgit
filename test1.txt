@@ -1,3 +1,4 @@
 d f sdf sdf sdf - pull command test
 fetch and merge check
 force pull
+diffe
